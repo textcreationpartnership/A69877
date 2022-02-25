@@ -1,0 +1,436 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the nobility of England, according to their respective precedencies as it was presented to His Majesty by John Dugdale, Esq. ... on New-years-day, 1684 ... ; to which is added the blazon of their paternal coats of arms respectively, and a list of the present bishops.</title>
+            <author>Dugdale, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69877</idno>
+            <idno type="STC">Wing D2471</idno>
+            <idno type="STC">ESTC R3741</idno>
+            <idno type="EEBO-CITATION">12246010</idno>
+            <idno type="OCLC">ocm 12246010</idno>
+            <idno type="VID">56941</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56941)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 141:10 or 1664:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the nobility of England, according to their respective precedencies as it was presented to His Majesty by John Dugdale, Esq. ... on New-years-day, 1684 ... ; to which is added the blazon of their paternal coats of arms respectively, and a list of the present bishops.</title>
+                  <author>Dugdale, John.</author>
+               </titleStmt>
+               <extent>1 broadside : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Jan. 21. 1684. I do order and appoint that his list be printed; and that none other be printed without my allowance. Norfolk and Marshal."</note>
+                  <note>Advertisement at foot of sheet.</note>
+                  <note>This work appears as Wing D2471 on reel 141 and as Wing C1406 on reel 1664.</note>
+                  <note>Entry for C1406 cancelled in Wing (2nd ed.)</note>
+                  <note>Reproduction of originals in the British Library and the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy.</term>
+               <term>Nobility --  Great Britain.</term>
+               <term>Heraldry --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="catalogue_of_nobility">
+            <pb facs="tcp:56941:1"/>
+            <head>A CATALOGUE OF THE NOBILITY OF ENGLAND According to their reſpective Precedencies, as it was preſented to His MAJESTY by <hi>John Dugdale</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Windſor</hi> Herald, Deputy to Sir <hi>William Dugdale</hi> Kt. <hi>Garter</hi> Principal King of Arms, On <hi>New-years-day</hi> 1684. <hi>Annoque Regni Regis</hi> CAROLI <hi>Secundi, nunc</hi> Angliae, <hi>&amp;c.</hi> xxxvj<hi rend="sup">o</hi>.</head>
+            <head type="sub">To which is added the Blazon of their Paternal Coats of Arms reſpectively, and a LIST of the preſent Biſhops.</head>
+            <figure>
+               <figDesc>crown</figDesc>
+            </figure>
+            <list>
+               <head>One Duke of the Royal Blood.</head>
+               <item>* <hi>JAMES</hi> Duke of <hi>York,</hi> only Brother to his moſt Sacred Majeſty. The Royal Arms, with a Label of three Points Erm.</item>
+            </list>
+            <list>
+               <head>III. Great Officers who take place above all Dukes not of the Royal Blood.</head>
+               <item>
+                  <hi>Francis</hi> Lord <hi>Guilford;</hi> Lord Keeper of the Great Seal.</item>
+               <item>
+                  <hi>Laurence</hi> Earl of <hi>Rocheſter,</hi> Lord Preſi<g ref="char:EOLhyphen"/>dent of the Council.</item>
+               <item>
+                  <hi>George</hi> Marq. of <hi>Halifax,</hi> L. Privy Seal.</item>
+            </list>
+            <list>
+               <head>II. Great Officers who take place above all of their Degree.</head>
+               <item>
+                  <hi>Henry</hi> Duke of <hi>Norfolk,</hi> Earl Marſhal of <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Duke of <hi>Ormond,</hi> Lord Steward of his Majeſties Houſhold.</item>
+            </list>
+            <figure>
+               <figDesc>crown</figDesc>
+            </figure>
+            <list>
+               <head>Dukes XIII. and Ducheſſes II.</head>
+               <item>1. <hi>Henry Howard</hi> Duke of <hi>Norfolk,</hi> (Earl Marſhal of <hi>England.</hi>) Gules, a Bend between ſix Croſs Croſlets fitchy Argent, with an Augmentation upon the Bend, alluding to the Arms of <hi>Scotland.</hi>
+               </item>
+               <item>2. * <hi>Charles Seymour</hi> Duke of <hi>Somerſet.</hi> Firſt an Augmentation, <hi>viz.</hi> Or, ſix Flowers de lis Azure, on a Pile G. three Lions of <hi>England.</hi> Se<g ref="char:EOLhyphen"/>condly, G. a pair of Wings conjoyn'd and diſplay'd Or, (the Tips downwards.)</item>
+               <item>3. * <hi>George Villiers</hi> Duke of <hi>Buckingham.</hi> Argent, on a Croſs Gules, five Eſcalops Or, a Mart<g ref="char:EOLhyphen"/>let for difference.</item>
+               <item>4. * <hi>Chriſtopher Monk</hi> Duke of <hi>Albemarle.</hi> G.a Cheveron between three Lions heads eraſed Arg.</item>
+               <item>5. * <hi>James Scot</hi> Duke of <hi>Monmouth.</hi> The Royal Arms, with a Baſton ſiniſter Argent.</item>
+               <item>6. <hi>Henry Cavendiſh</hi> Duke of <hi>Newcaſtle.</hi> Sable, three Staggs heads caboſhed A. attired Or, a Creſcent for difference.</item>
+               <item>7. <hi>Barbara Villiers</hi> Ducheſs of <hi>Cleveland.</hi> Arg. on a Croſs Gules, five Eſcalops Or, a Creſcent for difference.</item>
+               <item>8. <hi>Louiſa de Queroüalle</hi> Ducheſs of <hi>Portſ<g ref="char:EOLhyphen"/>mouth.</hi> Barry of ſix Argent and Azure.</item>
+               <item>9. * <hi>Charles Lenos</hi> Duke of <hi>Richmund.</hi> The Royal Arms, with a Bordure componé Argent and G. the Arg. charged with Roſes of the Second.</item>
+               <item>10. * <hi>Charles Fitz-Roy</hi> D. of <hi>Southampton.</hi> The Royal Arms with a Baſton ſiniſter Ermin.</item>
+               <item>11. * <hi>Henry Fitz-Roy</hi> Duke of <hi>Grafton.</hi> The Royal Arms, with a Baſton ſiniſter componé Argent and Azure.</item>
+               <item>12. * <hi>James Butler</hi> Duke of <hi>Ormond.</hi> Or, a Chief indented Azure.</item>
+               <item>13. * <hi>Henry Somerſet</hi> Duke of <hi>Beaufort.</hi> Quarterly <hi>France</hi> and <hi>England</hi> within a Bordure componé Argent and Azure.</item>
+               <item>14. * <hi>George Fitz-Roy</hi> Duke of <hi>Northum<g ref="char:EOLhyphen"/>berland.</hi> The Royal Arms, with a Baſton ſiniſter componé Ermin and Azure.</item>
+               <item>15. <hi>Charles Beauclair</hi> Duke of <hi>S. Albans.</hi> The Royal Arms, with a Baſton ſiniſter G. charged with three Roſes Argent.</item>
+            </list>
+            <figure>
+               <figDesc>crown</figDesc>
+            </figure>
+            <list>
+               <head>Marquiſſes II.</head>
+               <item>1. <hi>Charles Pawlet</hi> Marquiſs of <hi>Wincheſter.</hi> Sable, three Swords in Pile A. Hilts and Pomels Or.</item>
+               <item>2. <hi>George Savile</hi> Marquiſs of <hi>Halifax,</hi> (Lord Privy Seal.) Argent, on a Bend Sable, three Owls of the firſt.</item>
+            </list>
+            <list>
+               <head>II. Other Great Officers who take place above all of their Degree.</head>
+               <item>
+                  <hi>Robert</hi> Earl of <hi>Lindſey,</hi> L. High Cham<g ref="char:EOLhyphen"/>berlain of <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>Henry</hi> Earl of <hi>Arlington,</hi> Lord Cham<g ref="char:EOLhyphen"/>berlain of his Majeſties Houſhold.</item>
+            </list>
+            <figure>
+               <figDesc>crown</figDesc>
+            </figure>
+            <list>
+               <head>Earls LXVI. and I. Counteſs.</head>
+               <item>1. * <hi>Aubrey de Vere</hi> Earl of <hi>Oxford.</hi> Quarterly G. and Or, a Mullet in firſt quart. Argent.</item>
+               <item>2. <hi>Charles Talhot</hi> Earl of <hi>Shrewsbury.</hi> G. a Lion Rampant within a Bordure engrail'd, Or.</item>
+               <item>3. <hi>Anthony Grey</hi> Earl of <hi>Kent.</hi> Barry of ſix Arg. and Az in Chief three Torteauxes.</item>
+               <item>4. <hi>William Stanley</hi> Earl of <hi>Derby.</hi> A. on a Bend Azure, three Bucks heads caboſhed, Or.</item>
+               <item>5. <hi>John Maners</hi> Earl of <hi>Rutland.</hi> Or, two Barrs Azure, on a Chief quarterly Azure and Gules, in the firſt two Flowers de lis of <hi>France,</hi> in the ſecond a Lion of <hi>England.</hi>
+               </item>
+               <item>6. <hi>Theophilus Haſtings</hi> Earl of <hi>Huntingdon.</hi> Argent, a Manch Sable.</item>
+               <item>7. * <hi>William Ruſſel</hi> Earl of <hi>Bedford.</hi> Argent, a Lion Rampant Gules, on a Chief Sable three Eſcallops of the Firſt.</item>
+               <item>8. <hi>Thomas Herbert</hi> Earl of <hi>Pembroke.</hi> Per Pale Az. and G. three Lions rampant Argent.</item>
+               <item>9. <hi>Edward Clinton</hi> Earl of <hi>Lincoln.</hi> Arg. ſix Croſs Croſlets fitchy Sable, on a Chief Az. two Mullets Or, pierced Gules.</item>
+               <item>10. <hi>James Howard</hi> Earl of <hi>Suffolk.</hi> The ſame as the D. of <hi>Norfolk</hi> with a Creſcent.</item>
+               <item>11. <hi>Charles Sackville</hi> Earl of <hi>Dorſet.</hi> Quarterly Or and Gules a Bend Vaire.</item>
+               <item>12. <hi>James Cecil</hi> Earl of <hi>Salisbury.</hi> Barry of ten Argent and Azure, ſix Eſcocheons Sa<g ref="char:EOLhyphen"/>ble, charged with as many Lions Rampant of the firſt, a Creſcent for difference.</item>
+               <item>13. <hi>John Cecil</hi> Earl of <hi>Exeter.</hi> The ſame as before omitting the difference.</item>
+               <item>14. <hi>John Egerton</hi> Earl of <hi>Bridgwater.</hi> Argent, a Lion rampant Gules, between three Phe<g ref="char:EOLhyphen"/>ons with a Bordure engrail'd Sable, (but the Bordure is now left off.)</item>
+               <item>15. <hi>Philip Sidney</hi> Earl of <hi>Leiceſter.</hi> Or, a Pheon Azure.</item>
+               <item>16. <hi>George Compton</hi> Earl of <hi>Northampton.</hi> Sable a Lion paſſant gardant Or, between three Hel<g ref="char:EOLhyphen"/>mets Argent.</item>
+               <item>17. <hi>Edward Rich</hi> Earl of <hi>Warwick.</hi> G. a Cheveron between 3 Croſſes botoné Or.</item>
+               <item>18. <hi>William Cavendiſh</hi> Earl of <hi>Devonſhire.</hi> The ſame as the D. of <hi>Newcaſtle,</hi> omitting the diff.</item>
+               <item>19. <hi>William Fielding</hi> Earl of <hi>Denbigh.</hi> Argent, on a Feſs Azure, three Lozenges Or.</item>
+               <item>20. <hi>John Digby</hi> Earl of <hi>Briſtol.</hi> Az. a Flower de lis Arg. a Mullet for difference.</item>
+               <item>21. <hi>Gilbert Holles</hi> Earl of <hi>Clare.</hi> Ermin, two Piles in point Sable.</item>
+               <item>22. <hi>Oliver St. John</hi> Earl of <hi>Bolingbroke.</hi> Arg. on a Chief Gules two Mullets Or.</item>
+               <item>23. <hi>Charles Fane</hi> Earl of <hi>Weſtmerland.</hi> Azure, three Gantlets Or.</item>
+               <item>24. <hi>Charles Mountagu</hi> Earl of <hi>Manchester.</hi> Arg. three Fuſils in Feſs Gules, within a Bordure Sable, a Creſcent for difference.</item>
+               <item>25. <hi>Thomas Howard</hi> Earl of <hi>Berkſhire.</hi> The ſame as the E. of <hi>Suffolk,</hi> with a Creſcent.</item>
+               <item>26. * <hi>John Sheffield</hi> Earl of <hi>Mulgrave.</hi> Arg. a Cheveron between three Garbs Gules.</item>
+               <item>27. <hi>Thomas Savage</hi> Earl <hi>Rivers.</hi> Argent, ſix Lioncels Ramp. Sable three, two, and one.</item>
+               <item>28. <hi>Robert Bertie</hi> Earl of <hi>Lindſey,</hi> (L. High Chamberlain of <hi>England.</hi>) Arg. three battering Rams Bar-ways in Pale proper garniſhed Azure.</item>
+               <item>29. <hi>Henry Mordant</hi> Earl of <hi>Peterborow.</hi> Arg. a Cheveron between three Eſtoils Sable.</item>
+               <item>30. <hi>Thomas Grey</hi> Earl of <hi>Stamford.</hi> The ſame as the E. of <hi>Kent,</hi> with a Label of 3 points</item>
+               <item>31. <hi>Heneage Finch</hi> Earl of <hi>Winchelſea.</hi> Arg. a Cheveron between 3 Griphons Segreant paſ<g ref="char:EOLhyphen"/>ſant Sable.</item>
+               <item>32. <hi>William Pierpont</hi> Earl of <hi>Kingston.</hi> Arg. Semie of Cinquefoils Gules, a Lion rampant Sab.</item>
+               <item>33. <hi>Charles Dormer</hi> Earl of <hi>Carnarvon.</hi> Az. ten Billets Or, on a Chief of the Second a De<g ref="char:EOLhyphen"/>mi-Lion iſſuant Sable.</item>
+               <item>34. <hi>Philip Stanhope</hi> Earl of <hi>Cheſterfield.</hi> Quarterly Ermin and Gules.</item>
+               <item>35. <hi>Thomas Tufton</hi> Earl of <hi>Thanet.</hi> Sab an Eagle diſplay'd Ermin within a Bordure, Arg.</item>
+               <item>36. <hi>Thomas Weſton</hi> Earl of <hi>Portland.</hi> Or, an Eagle diſplay'd regardant Sable.</item>
+               <item>37. <hi>William Wentworth</hi> Earl of <hi>Strafford.</hi> Sable, a Cheveron between three Leopards heads, Or.</item>
+               <item>38. <hi>Robert Spencer</hi> Earl of <hi>Sunderland.</hi> Quarterly Arg. and Gules in the ſecond and third a frett Or, over all a bend Sable, charged with three Eſcalops of the Firſt.</item>
+               <item>39. <hi>Robert Leke</hi> Earl of <hi>Scarſdale.</hi> Argent, on a Saltire engrail'd Sable, 9 Annulets Or.</item>
+               <item>40. <hi>Edward Mountagu</hi> Earl of <hi>Sandwich.</hi> The ſame as the Earl of <hi>Mancheſter,</hi> changing the difference into a Mullet.</item>
+               <item>41. <hi>Henry Hyde</hi> Earl of <hi>Clarendon.</hi> Azure a Cheveron between three Lozenges, Or.</item>
+               <item>42. <hi>Algernon Capel</hi> Earl of <hi>Eſſex.</hi> G. a Lion ramp. between 3 Croſs Croſlets fitchy Or.</item>
+               <item>43. <hi>Robert Brudenel</hi> Earl of <hi>Cardigan.</hi> Argent, a Cheveron Gules, between 3 Morions Az.</item>
+               <item>44. <hi>Arthur Anneſley</hi> Earl of <hi>Angleſey.</hi> Paly of ſix Argent and Azure, a Bend Gules.</item>
+               <item>45. <hi>John Grenville</hi> Earl of <hi>Bathe.</hi> Gules, three Horſmens Reſts, Or.</item>
+               <item>46. <hi>Charles</hi> (now <hi>Edward) Howard</hi> Earl of <hi>Carliſle.</hi> The ſame as the Duke of <hi>Norfolk</hi> with a Mullet.</item>
+               <item>47. <hi>William Craven</hi> Earl of <hi>Craven.</hi> A. a Feſs between ſix Croſs Croſlets fitchy G.</item>
+               <item>48. <hi>Robert Bruce</hi> Earl of <hi>Ailesbury.</hi> Or, a Saltier and Chief Gules, on a Canton Argent a Lion rampant Azure.</item>
+               <item>49. <hi>Richard Boyle</hi> Earl of <hi>Burlington.</hi> Party per Bend Crenelle Argent and Gules.</item>
+               <item>50. * <hi>Henry Bennet</hi> Earl of <hi>Arlington,</hi> (L. Chamberlain of his Majties Houſhold.) Gules, a Mound Royal Or, between three demi-Lions rampant Argent.</item>
+               <item>51. <hi>Anthony Aſhley Cooper</hi> E. of <hi>Shaftsbury.</hi> Argent, three Bulls paſſant Sable, Attired Or.</item>
+               <item>52. <hi>William Herbert</hi> Earl of <hi>Powis.</hi> The ſame as the Earl of <hi>Pembroke</hi> with a Creſcent.</item>
+               <item>53. <hi>Edward-Henry Lee</hi> Earl of <hi>Lichfield.</hi> Argent, a Feſs between three Creſcents Sable.</item>
+               <item>54. * <hi>Thomas Oſborne</hi> Earl of <hi>Danby.</hi> Quarterly Ermin and Azure, a Croſs Or.</item>
+               <item>55. <hi>Thomas Lennard</hi> Earl of <hi>Suſſex.</hi> Or, on a Feſs Gules three Flowers de lis of the firſt.</item>
+               <item>56. <hi>Lewis de Duras</hi> Earl of <hi>Feverſham.</hi> Gules, a Lion rampant Argent, quartering Arg. a Bend Az. over all a Label of three points Or.</item>
+               <item>57. <hi>Charles Gerard</hi> Earl of <hi>Macclesfield.</hi> Argent, on a Saltire G. an Imperial Crown Or.</item>
+               <item>58. <hi>John Roberts</hi> Earl of <hi>Radnor.</hi> Az. three Eſtoils and a Chief wavy, Or.</item>
+               <item>59. <hi>William Paſton</hi> Earl of <hi>Yarmouth.</hi> Arg. ſix Flowers de lis Az. a Chief indented, Or.</item>
+               <item>60. <hi>George Berkeley</hi> Earl of <hi>Berkeley.</hi> G. a Cheveron between ten Croſſes formé Arg.</item>
+               <item>61. <hi>Elizabeth Banning</hi> Counteſs of <hi>Shepey.</hi> Arg. 2 Bars Sable, each charged with 2 Eſcalops, Or.</item>
+               <item>62. <hi>Daniel Finch</hi> Earl of <hi>Nottingham.</hi> The ſame as the E. of <hi>Winchelſey,</hi> with a Creſcent.</item>
+               <item>63. <hi>Laurence Hyde</hi> Earl of <hi>Rocheſter,</hi> (Lord Preſident of the Council.) The ſame as the Earl of <hi>Clarendon,</hi> with a Creſcent.</item>
+               <item>64. <hi>James Bertie</hi> Earl of <hi>Abingdon.</hi> The ſame as the E. of <hi>Lindſey,</hi> with an Annulet.</item>
+               <item>65. <hi>Edward Noel</hi> Earl of <hi>Gainesborough.</hi> Or, frettic of eight Staves Gules, a Canton Ermin.</item>
+               <item>66. <hi>Coniers D'Arcie</hi> Earl of <hi>Holderneſs.</hi> Az. Semie of Croſs Croſlets and 3 Cinquefoils Arg.</item>
+               <item>67. <hi>Thomas Windſer</hi> Earl of <hi>Plymouth.</hi> Gules, a Saltire Arg. between <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Croſs Croſlets, Or.</item>
+            </list>
+            <figure>
+               <figDesc>crown</figDesc>
+            </figure>
+            <list>
+               <head>Viſcounts IX.</head>
+               <item>1. <hi>Edward Devereux</hi> Viſcount <hi>Hereford.</hi> Arg. a Feſs Gules, in Chief three Torteauxes.</item>
+               <item>2. <hi>Francis Brown</hi> Viſcount <hi>Mountagu.</hi> Sable, three Lions paſſant in Bend between two double Cotiſes Argent.</item>
+               <item>3. <hi>William Fiennes</hi> Viſcount Say and Sele. Azure three Lions rampant Or.</item>
+               <item>4. <hi>Thomas Bellaſſiſe</hi> Viſcount <hi>Falconberg.</hi> Arg. a Cheveron G. between three Flowers de lis Az.</item>
+               <item>5. <hi>Charles Mordant</hi> Viſcount <hi>Mordant.</hi> The ſame as the E. of <hi>Peterborow,</hi> with a Creſcent.</item>
+               <item>6. <hi>Francis Newport</hi> Viſcount <hi>Newport.</hi> Arg. a Cheveron G. between 3 Leopards heads Sable.</item>
+               <item>7. <hi>Horatio Townſend</hi> Viſcount <hi>Townſend.</hi> Az. a Cheveron Ermin, between three Eſcallops Arg.</item>
+               <item>8. <hi>Thomas Thynne</hi> Viſcount <hi>Weymouth.</hi> Barry of ten, Or and Sable.</item>
+               <item>9. <hi>Chriſtopher Hatton</hi> Viſcount <hi>Hatton.</hi> Az. a Cheveron between three Garbs Or.</item>
+            </list>
+            <figure>
+               <figDesc>crown</figDesc>
+            </figure>
+            <list>
+               <head>Barons LXII, and Baroneſſes IV.</head>
+               <item>1. <hi>George Nevill</hi> Lord <hi>Bergaveny.</hi> Gules, on a Saltier Argent, a Roſe of the firſt.</item>
+               <item>2. <hi>Mervyn Touchet</hi> Lord <hi>Audley.</hi> Ermin, a Cheveron Gules.</item>
+               <item>3. <hi>Charles Weſt</hi> Lord <hi>la Warr.</hi> Argent, a Feſs dancetté Sable.</item>
+               <item>4. <hi>Thomas Parker</hi> Lord <hi>Morley:</hi> Arg. a Lion paſſant G. between 2 Bars Sable, charged with three Beſants, two and one, in Chief as many Bucks heads caboſhed of the third.</item>
+               <item>5. <hi>Robert Shirley</hi> Lord <hi>Ferrers.</hi> Paly of ſix Or and Azure, a Canton Ermin.</item>
+               <item>6. <hi>Charles Mildmay</hi> Lord <hi>Fitzwalter.</hi> Argent, three Lions rampant Azure.</item>
+               <item>7. <hi>Henry Yelverton</hi> Lord <hi>de Grey.</hi> Arg. three Lions rampant and a Chief Gules,</item>
+               <item>8. <hi>Frances Sutton</hi> Baroneſs <hi>Dudley.</hi> Or, two Lions paſſant Azure.</item>
+               <item>9. <hi>William Stourton</hi> Lord <hi>Stourton.</hi> Sable, a Bend Or, between ſix Fountains proper.</item>
+               <item>10. <hi>Coniers D'arcie</hi> L. <hi>Coniers,</hi> Son and Heir apparent to the Earl of <hi>Holderneſs.</hi> The ſame as the Earl his Father, with a Label.</item>
+               <item>11. <hi>Vere-Eſſex Cromwell</hi> Lord <hi>Cromwell,</hi> (and Earl of <hi>Arglaſs</hi> in <hi>Ireland.</hi>) Quarterly per Feſs indented Azure and Or, ſour Li ons paſſant counterchanged.</item>
+               <item>12. <hi>Ralph Eure</hi> Lord <hi>Eure.</hi> Quarterly Or and G. on a Bend Sable three Eſca lops Argent.</item>
+               <item>13 <hi>Philip Wharton</hi> Lord <hi>Wharton.</hi> Sable, a Manch Arg. within a Bordure Or eight pair of Lions paws Saltier ways eraſed G.</item>
+               <item>14. <hi>Thomas Willoughby</hi> Lord <hi>Willoughby</hi> of <hi>Parham.</hi> Or, frettie of eight Staves Azure.</item>
+               <item>15. <hi>William Paget</hi> Lord <hi>Paget.</hi> Sable, on a Croſs engrail'd between four Eagles diſ<g ref="char:EOLhyphen"/>play'd Argent, five Lioncels of the firſt.</item>
+               <item>16. <hi>Fran. Howard</hi> L. <hi>Howard</hi> of <hi>Eſſingham.</hi> The ſame as the Duke of <hi>Norfolk,</hi> with a Mullet.</item>
+               <item>17. <hi>Charles North</hi> Lord <hi>North.</hi> Az. a Lion paſſant Or, between 3 Flowers de lis Arg.</item>
+               <item>18. <hi>James Bruges</hi> Lord <hi>Chandos.</hi> Argent, on a Croſs Sable, a Leopards head Or.</item>
+               <item>19. <hi>Robert Carey</hi> Lord <hi>Hunſdon.</hi> Argent, on a Bend Sable, three Roſes of the firſt.</item>
+               <item>20. <hi>John</hi> (now <hi>Thomas) Petre</hi> Lord <hi>Petre.</hi> Gules, a Bend Or, between two Eſcallops Argent.</item>
+               <item>21. <hi>Charles Gerard</hi> Lord <hi>Gerard.</hi> Argent, a Saltier Gules, a Creſcent for difference.</item>
+               <item>22. <hi>Henry Arundel</hi> L. <hi>Arundel</hi> of <hi>Wardour.</hi> Sable, ſix Swallows Argent, three, two, and one.</item>
+               <item>23. Lady <hi>Catherine Stuart,</hi> Baroneſs <hi>Clifton</hi> of <hi>Leighton Bromſwold. France,</hi> with a Bord. G. charged with 8 Buckles Or, quartering Or, a Feſs chequy Arg. and Az. within a Bordure engrail'd G. over all on an Eſcocheon Arg. a Saltier engrail'd between four Cinquefoils G.</item>
+               <item>24. <hi>Chriſtopher Roper</hi> Lord <hi>Tenham.</hi> Party per Feſs Az. and Or, a Pale counterchanged, and three Roebucks heads eraſed of the ſecond.</item>
+               <item>25. <hi>Foulk Grevil</hi> Lord <hi>Brook.</hi> Sable on a Croſs within a Bordure engrail'd Or, five Ogreſſes.</item>
+               <item>26. <hi>Ralph Mountagu</hi> Lord <hi>Mountagu.</hi> The ſame as the Earl of <hi>Mancheſter,</hi> omitting the diff.</item>
+               <item>27. <hi>John Lovelace</hi> Lord <hi>Lovelace.</hi> Gules, on a Chief indented Sable, three Martlets Or.</item>
+               <item>28. <hi>John Pawlet</hi> Lord <hi>Pawlet.</hi> Sable, three Swords in Pile, Hilts and Pomels Arg.</item>
+               <item>29. <hi>William Maynard</hi> Lord <hi>Maynard.</hi> Arg. a Cheveron Az. betw. 3 ſiniſter Hands coupé G.</item>
+               <item>30. <hi>John Coventry</hi> Lord <hi>Coventry.</hi> Sable, a Feſs Ermin between three Creſcents Or.</item>
+               <item>31. <hi>Charles Mohun</hi> Lord <hi>Mohun.</hi> Or, a Croſs engrail'd Sable.</item>
+               <item>32. <hi>William Howard</hi> L. <hi>Howard</hi> of <hi>Eſcrick.</hi> The ſame as the E. of <hi>Suffolk</hi> with a Flower de lis.</item>
+               <item>33. <hi>Henry Herbert</hi> L. <hi>Herbert</hi> of <hi>Chirbury.</hi> The ſame as the Earl of <hi>Pembroke,</hi> with a Creſcent.</item>
+               <item>34. <hi>Thomas Leigh</hi> Lord <hi>Leigh.</hi> G.a Croſs engr. &amp; a Lozenge in the dexter Cant.Arg.</item>
+               <item>35. <hi>Thomas Jermyn</hi> Lord <hi>Jermyn.</hi> Sable, a Creſcent between two Mullets in Pale Arg.</item>
+               <item>36. <hi>William Byron</hi> Lord <hi>Byron.</hi> Argent, three Bendlets inhanced Gules.</item>
+               <item>37. <hi>Richard Vaughan</hi> Lord <hi>Vaughan,</hi> (and Earl of <hi>Carbery</hi> in <hi>Ireland.</hi>) Or, a Lion rampant Gules.</item>
+               <item>38. <hi>Francis Smith</hi> Lord <hi>Carrington,</hi> (and Viſcount <hi>Carrington</hi> in <hi>Ireland.</hi>) Arg a Croſs Gules between four Peacocks Azure.</item>
+               <item>39. <hi>William Widdrington</hi> Lord <hi>Widdrington.</hi> Quarterly Argent and Gules, a Bendlet Sable</item>
+               <item>40. <hi>Edward Ward</hi> Lord <hi>Ward.</hi> Chequy Or and Azure, a Bend Ermin.</item>
+               <item>41. <hi>Thomas Colepeper</hi> Lord <hi>Colepeper.</hi> Argent, a Bend engrail'd Gules.</item>
+               <item>42. <hi>Jacob Aſtley</hi> Lord <hi>Aſtley.</hi> Az. a Cinquefoil Ermin, within a Bordure engr. Or.</item>
+               <item>43. <hi>Charles Lucas</hi> Lord <hi>Lucas.</hi> Argent, a Feſs between 6 Annulets Gules.</item>
+               <item>44. <hi>John Bellaſſiſe</hi> Lord <hi>Bellaſſiſe.</hi> Arg. a Pale engrall'd between two Pallets Sable, quartering Argent, a Cheveron G. between three Flowers de lis Azure, a Creſcent for difference.</item>
+               <item>45. <hi>Edward Watſon</hi> Lord <hi>Rockingham.</hi> Argent, on a Cheveron engrail'd Azure, between three Martlets Sable, as many Creſcents Or.</item>
+               <item>46. <hi>Robert Sutton</hi> Lord <hi>Lexington.</hi> Argent, a quarter Sable.</item>
+               <item>47. <hi>Marmaduke Langdale</hi> Lord <hi>Langdale.</hi> Sable, a Cheveron between three Eſtoils Argent.</item>
+               <item>48. <hi>John Berkeley</hi> Lord <hi>Berkeley.</hi> G. a Cheveron Erm. between ten Croſſes formé Arg.</item>
+               <item>49. <hi>Francis Holles</hi> Lord <hi>Holles.</hi> Ermin, two Piles in point Sable, a Creſcent for diff.</item>
+               <item>50. <hi>Charles Cornwallis</hi> Lord <hi>Cornwallis.</hi> Sable, Gutté de Larmes, on a Feſs Argent, three Corniſh Choughs proper,</item>
+               <item>51. <hi>Henry Booth</hi> Lord <hi>De la mer.</hi> Argent, three Boars heads eraſed and erected Sable.</item>
+               <item>52. <hi>Thomas Crew</hi> Lord <hi>Crew.</hi> Azure, a Lion rampant Argent, a Creſcent for diff.</item>
+               <item>53. <hi>Mary Lucas</hi> Baroneſs <hi>Lucas,</hi> (and Counteſs of <hi>Kent.</hi>) The ſame as the Lord <hi>Lucas.</hi>
+               </item>
+               <item>54. <hi>Richard Arundel</hi> L. <hi>Arundel</hi> of <hi>Trerice.</hi> Sable, 6 Swallows Argent, three, two, and one.</item>
+               <item>55. <hi>James Butler,</hi> Baron <hi>Butler</hi> of <hi>More-Park,</hi> Grandſon and Heir apparent to the Duke of <hi>Ormond.</hi> The ſame as the Duke his Grandfather, with a La<g ref="char:EOLhyphen"/>bel of five points.</item>
+               <item>56. <hi>Hugh Clifford</hi> Lord <hi>Clifford.</hi> Chequie Or and Az. a Feſs G. a Creſcent for diff.</item>
+               <item>57. Lord <hi>Richard Butler,</hi> Baron <hi>Butler</hi> of <hi>Weston,</hi> (and Earl of <hi>Arran</hi> in <hi>Ireland.</hi>) The ſame as the Duke of <hi>Ormond,</hi> with a Creſcent.</item>
+               <item>58. <hi>Suſan Airmine</hi> Baroneſs <hi>Bellaſſiſe</hi> of <hi>Oſgodby.</hi> Ermin, a Saltire engrail'd G. on a Chief of the ſame a Lion of <hi>England.</hi>
+               </item>
+               <item>59. <hi>Richard Lumley</hi> Lord <hi>Lumley,</hi> (and Viſcount <hi>Lumley</hi> in <hi>Ireland.</hi>) Argent, a Feſs G. between three Popinjays proper.</item>
+               <item>60. <hi>George Carteret</hi> Lord <hi>Carteret.</hi> G. four Fuſils in Feſs Argent, a Creſcent for diff.</item>
+               <item>61. <hi>George Legge</hi> Lord <hi>Dartmouth.</hi> Azure, a Staggs head caboſhed Argent.</item>
+               <item>62. <hi>John Bennet</hi> Lord <hi>Oſſülſton.</hi> Gules, a Beſant between 3 Demi-Lions rampant A.</item>
+               <item>63. <hi>Will.</hi> (now <hi>Giles) Allington</hi> L. <hi>Allington.</hi> Sable, a Bend engrail'd between ſix Billets Argent.</item>
+               <item>64. <hi>Ralph Stawell</hi> Lord <hi>Stawell.</hi> Gules a Croſs Fuſily Argent.</item>
+               <item>65. <hi>Francis North</hi> Lord <hi>Guilford,</hi> (Lord (Keeper of the Great Seal. The ſame as the Lord <hi>North,</hi> with a Creſcent.</item>
+               <item>66. <hi>Sidney Godolphin</hi> Lord <hi>Godolphin.</hi> G.an Eagle diſplay'd between 3 Flowers de lis Arg.</item>
+            </list>
+            <p>Note that ſuch Noblemen before whom * Stars are prefixed, are Knights of the moſt Noble Order of the Garter.</p>
+            <figure>
+               <figDesc>mitre</figDesc>
+            </figure>
+            <list>
+               <head>Archbiſhops II. and Biſhops XXIV.</head>
+               <item>1. Dr. <hi>William Sandcroft</hi> Lord Archbiſhop of <hi>Canterbury,</hi> and Primate of all <hi>Engl.</hi>
+               </item>
+               <item>2. Dr. <hi>John Dolbin</hi> Lord Archbiſhop of <hi>York,</hi> and Primate of <hi>England.</hi>
+               </item>
+               <item>3. Dr. <hi>Henry Compton</hi> L. Biſhop of <hi>London.</hi>
+               </item>
+               <item>4. Dr. <hi>Nathaniel Crew</hi> L. Biſhop of <hi>Durham.</hi>
+               </item>
+               <item>5. Dr. <hi>Peter Mew</hi> L. Biſhop of <hi>Wincheſter.</hi>
+               </item>
+               <item>6. Dr. <hi>Herbert Crofts</hi> L. Biſhop of <hi>Hereford.</hi>
+               </item>
+               <item>7. Dr. <hi>Seth Ward</hi> L. Biſhop of <hi>Salisbury.</hi>
+               </item>
+               <item>8. Dr. <hi>Anthony Sparrow</hi> L. Bp. of <hi>Norwich.</hi>
+               </item>
+               <item>9. Dr. <hi>Thomas Wood</hi> Lord Biſhop of <hi>Lich<g ref="char:EOLhyphen"/>field</hi> and <hi>Coventry.</hi>
+               </item>
+               <item>10. Dr. <hi>Guy Carleton</hi> L. Biſhop of <hi>Chicheſter.</hi>
+               </item>
+               <item>11. Dr. <hi>John Pearſon</hi> L. Biſhop of <hi>Cheſter.</hi>
+               </item>
+               <item>12. Dr. <hi>Humphry Lloyd</hi> L. Bp. of <hi>Bangor.</hi>
+               </item>
+               <item>13. Dr. <hi>Will. Lloyd</hi> L. Bp. of <hi>Peterborough.</hi>
+               </item>
+               <item>14. Dr. <hi>Tho. Barlow</hi> L. Biſhop of <hi>Lincoln.</hi>
+               </item>
+               <item>15. Dr. <hi>John Fell</hi> Lord Biſhop of <hi>Oxford.</hi>
+               </item>
+               <item>16. Dr. <hi>Tho. Lampleugh</hi> L. Biſhop of <hi>Exeter.</hi>
+               </item>
+               <item>17. Dr. <hi>Will. Thomas</hi> L. Biſhop of <hi>Worceſter.</hi>
+               </item>
+               <item>18. Dr. <hi>Will. Beaw</hi> L. Biſhop of <hi>Landaff.</hi>
+               </item>
+               <item>19. Dr. <hi>Will. Lloyd</hi> L. Biſhop of <hi>S. Aſaph.</hi>
+               </item>
+               <item>22. Dr. <hi>Rob. Frampton</hi> L. Biſhop of <hi>Gloceſter.</hi>
+               </item>
+               <item>21. Dr. <hi>Francis Turner</hi> L. Biſhop of <hi>Ely.</hi>
+               </item>
+               <item>22. Dr. <hi>Laurence Womock</hi> L. Bp. of <hi>S. Davids.</hi>
+               </item>
+               <item>23. Dr. <hi>Thomas Smith</hi> L. Biſhop of <hi>Carliſle.</hi>
+               </item>
+               <item>24. Dr. <hi>John Lake</hi> Lord Biſhop of <hi>Briſtol.</hi>
+               </item>
+               <item>25. Dr. <hi>Tho. Sprat</hi> L. Biſhop of <hi>Rocheſter.</hi>
+               </item>
+               <item>26. Dr. <hi>Tho. Kenn</hi> L. Bp. of <hi>Bath</hi> and <hi>Wells.</hi>
+               </item>
+            </list>
+            <p>[Conſecrated 25 <hi>Jan.</hi> 1684.]</p>
+            <p>The Archbiſhop of <hi>Canterbury</hi> takes place next to the Princes of the Blood, and a<g ref="char:EOLhyphen"/>bove all the Nobility and Great Offi<g ref="char:EOLhyphen"/>cers.</p>
+            <p>The Archbiſhop of <hi>York</hi> takes place a<g ref="char:EOLhyphen"/>bove all the Nobility and Great Of<g ref="char:EOLhyphen"/>ficers, except the Lord Keeper.</p>
+            <p>The reſt of the Biſhops take place next after the Viſcounts, and above the Temporal Barons.</p>
+            <p>Whereof the Biſhops of <hi>London, Durham,</hi> and <hi>Winchester</hi> do always precede the other Biſhops, the reſt taking place according to the Seniority of their Conſecrations.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Jan. 21. 1684.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>I do Order and Appoint that this LIST be printed, and that none other be printed without my Allowance.</hi>
+            </p>
+            <closer>
+               <signed>Norfolk and Marſhal.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>Robert Clavell</hi> at the Weſt-end of St. <hi>Pauls Church-yard.</hi> 1685.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>Introductio ad Latinam Blaſoniam,</hi> Latin and Engliſh. A Work befitting all Gentlemen, lovers of Armory and the Latin Tongue. By <hi>J. Gibbon</hi> an Officer at Arms.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
